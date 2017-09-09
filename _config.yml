@@ -6,7 +6,7 @@
 name: milkshak3
 
 # Short bio or description (displayed in the header)
-description: Cook, nerd, CSEC major
+description: Hacker, Cook, Nerd
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/31779144?v=4&s=400
@@ -14,6 +14,9 @@ avatar: https://avatars0.githubusercontent.com/u/31779144?v=4&s=400
 #
 # Flags below are optional
 #
+
+title: MILKSHAK3
+description: Hacker, Cook, Nerd
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -76,6 +79,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+theme: jekyll-theme-midnight
 
 # Exclude these files from your production _site
 exclude:

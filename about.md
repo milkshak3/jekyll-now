@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a (first year) CSEC major at RIT. I enjoy waking up unnecessarily early, solving CTF challenges, and not sleeping for extended periods of time.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email me cool stuff:
+[chris@sellingmilkshakes.com](mailto:chris@sellingmilkshakes.com)
